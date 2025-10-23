@@ -1,1 +1,1 @@
-# MIST-4610-GROUP-8-Project-1
+# MIST 4610 GROUP 8 Project-1
