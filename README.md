@@ -1,7 +1,7 @@
 # MIST 4610 GROUP 8 Project-1
 
 ## Team Name:
-Tutoring Insights Group
+CRN:39217 Group 8
 
 ## Team Members:
 1. Vishal Ramajayam (@vishalramajayam-art)
@@ -17,6 +17,29 @@ The task at hand is to design and implement a relational database for the genera
 ---
 
 ## Data Model
-(You will insert the ERD image here using Markdown)
+Explanation of Data Model:
 
-![ERD Diagram](path_to_your_image.png)
+
+
+<img width="1181" height="1049" alt="MIST 4610 Project 1 Data Model" src="https://github.com/user-attachments/assets/8d3659d1-a135-4fbe-aea0-9c47ab28b95a" /> 
+---
+
+## Data Dictionary 
+<img width="560" height="438" alt="image" src="https://github.com/user-attachments/assets/c923707b-3571-4239-a75f-cd33e85c8e61" />
+<img width="544" height="493" alt="image" src="https://github.com/user-attachments/assets/eb2e0c62-64a9-4b38-b0d9-d2e596715584" />
+<img width="558" height="522" alt="image" src="https://github.com/user-attachments/assets/11800135-b724-40ec-9e0c-c2ea15b53ab1" />
+
+
+
+
+
+
+| Feature                | Query 1 | Query 2 | Query 3 | Query 4 | Query 5 | Query 6 | Query 7 | Query 8 | Query 9 | Query 10 |
+|------------------------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:--------:|:--------:|
+| multiple table join     |    X    |    X    |    X    |    X    |         |    X    |    X    |    X    |    X     |          |
+| subquery               |         |         |         |         |    X    |         |         |         |          |          |
+| GROUP BY              |    X    |    X    |    X    |    X    |         |         |         |         |          |          |
+| GROUP BY with HAVING   |         |    X    |    X    |    X    |         |         |         |         |          |          |
+| multi condition WHERE  |    X    |         |         |         |         |    X    |         |    X    |          |          |
+| built-in functions     |    X    |    X    |    X    |    X    |    X    |         |         |         |    X     |          |
+
