@@ -31,7 +31,7 @@ Explanation of Data Model:
 
 
 
-
+## Queries
 
 
 | Feature                | Query 1 | Query 2 | Query 3 | Query 4 | Query 5 | Query 6 | Query 7 | Query 8 | Query 9 | Query 10 |
@@ -42,4 +42,5 @@ Explanation of Data Model:
 | GROUP BY with HAVING   |         |    X    |    X    |    X    |         |         |         |         |          |          |
 | multi condition WHERE  |    X    |         |         |         |         |    X    |         |    X    |          |          |
 | built-in functions     |    X    |    X    |    X    |    X    |    X    |         |         |         |    X     |          |
+---
 
