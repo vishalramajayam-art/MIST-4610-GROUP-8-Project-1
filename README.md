@@ -12,8 +12,7 @@ Tutoring Insights Group
 ---
 
 ## Problem Description
-The objective of this project is to design and implement a relational database to support the core operations of a tutoring center...
-(continue paragraph here)
+The task at hand is to design and implement a relational database for the general operations of a tutoring and learning center. The central entity in this model is the Student, who is enrolled in various academic subjects and assigned to a tutoring plan. The tutoring center schedules many instructional sessions that take place in classrooms which are staffed by tutors that are also specialized in particular subjects. The system models students, their parents/guardians, tutors, subjects, tutoring plans, scheduled sessions, classroom locations, and academic progress through assessments and reports. It also tracks payments and assessments to reflect both academic and financial activity. We hope that this database will serve as a foundation to help with decision making and also operational efficiency within the tutoring center. 
 
 ---
 
