@@ -6,7 +6,7 @@ CRN:39217 Group 8
 ## Team Members:
 1. Vishal Ramajayam (@vishalramajayam-art)
 2. Bhavya Siva (@bhavyasiva)
-3. Sheshasri Mallibhatti (@sheshasrimallibhatti)
+3. Sheshasri Mallibhatti (@sheshasrimallibhatti-dot)
 4. Huzaifah Malik (@githubhandle)
 
 ---
@@ -18,10 +18,11 @@ The task at hand is to design and implement a relational database for the genera
 
 ## Data Model
 Explanation of Data Model:
-
+This database is meant to help run a tutoring center by keeping track of students, their parents, tutors, subjects, tutoring plans, scheduled sessions, payments, and grades. The student entity is the most important part of the model. It is linked to a parent or guardian who is in charge of enrollment and payment. Also, each student is in a specific plan that sets the costs and the number of tutoring sessions they can have. Tutors teach sessions in a classroom and link them to a subject. A bridge entity connects students to the sessions they attend, which keeps track of attendance. The model also keeps track of students' academic progress by connecting them to tests and progress reports that show how they are doing over time. Additionally, payment records capture financial transactions made by guardians on behalf of the student. The model does not keep track of things like tutor pay, detailed curriculum content, real-time scheduling conflicts, messaging/communication logs, or external school data that isn't related to tutoring operations. Overall, this design helps a tutoring center with both academic and administrative tasks. It lets you see how many students are participating, how much work the tutors have, how much demand there is for each subject, and financial performance of the center. 
 
 
 <img width="1181" height="1049" alt="MIST 4610 Project 1 Data Model" src="https://github.com/user-attachments/assets/8d3659d1-a135-4fbe-aea0-9c47ab28b95a" /> 
+
 ---
 
 ## Data Dictionary 
