@@ -43,7 +43,7 @@ This database is meant to help run a tutoring center by keeping track of student
 
 <img width="574" height="435" alt="image" src="https://github.com/user-attachments/assets/fa8b2701-ae09-4c21-b128-708a967e6907" />
 
-<img width="588" height="584" alt="image" src="https://github.com/user-attachments/assets/1853c826-6e1a-4900-b441-20402af4b501" />
+<img width="563" height="523" alt="image" src="https://github.com/user-attachments/assets/43c13b6d-07e8-4631-b43a-5e9357c91dcc" />
 
 <img width="558" height="440" alt="image" src="https://github.com/user-attachments/assets/f34e7595-5fee-4dd3-8d0d-25afbb705965" />
 
