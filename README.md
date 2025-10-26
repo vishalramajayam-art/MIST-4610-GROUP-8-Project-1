@@ -67,11 +67,11 @@ This database is meant to help run a tutoring center by keeping track of student
 
 Query 1 helps staff identify each active student who has made a high payment of over 200. It shows the student’s and guardian’s names along with the largest payment amount. This allows employees to quickly find top-paying active students and their guardians.
 
-2. Write a query to show each tutor’s first name, last name, specialty, and the total number of sessions they have taught. Only include tutors who have taught at least 5 sessions. Group the results by tutor, and sort so that tutors with the highest number of sessions appear first, and then by tutor name.
+2. Write a query to show each tutor’s first name, last name, specialty, and the total number of sessions they have taught. Only include tutors who have taught at least 3 sessions. Group the results by tutor, and sort so that tutors with the highest number of sessions appear first, and then by tutor name.
    
 <img width="491" height="423" alt="query 2" src="https://github.com/user-attachments/assets/1633df42-3bd0-414a-b2b3-81f57e2975e5" />
 
-Query 2 shows which tutors have taught at least 5 sessions, along with their specialty and total sessions taught. This helps management recognize experienced tutors and assign classes more effectively.
+Query 2 shows which tutors have taught at least 3 sessions, along with their specialty and total sessions taught. This helps management recognize experienced tutors and assign classes more effectively.
 
 3. Write a query to list each plan’s name and session_limit along with the total amount paid by all students on that plan. Only include plans where the total paid is greater than 1000 and where session_limit is at least 4. Group the results by plan, and order by the total paid in descending order.
    
