@@ -4,9 +4,9 @@
 Tutoring Insights Group
 
 ## Team Members:
-1. Vishal Ramajayam (@githubhandle)
-2. Bhavya Siva (@githubhandle)
-3. Sheshasri Mallibhatti (@githubhandle)
+1. Vishal Ramajayam (@vishalramajayam-art)
+2. Bhavya Siva (@bhavyasiva)
+3. Sheshasri Mallibhatti (@sheshasrimallibhatti)
 4. Huzaifah Malik (@githubhandle)
 
 ---
