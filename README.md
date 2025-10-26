@@ -12,7 +12,7 @@ CRN:39217 Group 8
 ---
 
 ## Problem Description
-The task at hand is to design and implement a relational database for the general operations of a tutoring and learning center. The central entity in this model is the Student, who is enrolled in various academic subjects and assigned to a tutoring plan. The tutoring center schedules many instructional sessions that take place in classrooms which are staffed by tutors that are also specialized in particular subjects. The system models students, their parents/guardians, tutors, subjects, tutoring plans, scheduled sessions, classroom locations, and academic progress through assessments and reports. It also tracks payments and assessments to reflect both academic and financial activity. We hope that this database will serve as a foundation to help with decision making and also operational efficiency within the tutoring center. 
+The objective of this project is to create and set up a relational database for the everyday operations of a tutoring and learning center.  The Student is the central entity in this model. They are enrolled in different academic subjects and given a tutoring plan.  The tutoring center sets up a lot of lessons in classrooms with tutors who are also experts in certain subjects.  The system keeps track of students, their parents or guardians, tutors, subjects, tutoring plans, scheduled sessions, classroom locations, and academic progress through tests and reports.  It also keeps track of payments and assessments to show both academic and financial activity.  We hope that this database will help the tutoring center make decisions and run more smoothly.
 
 ---
 
