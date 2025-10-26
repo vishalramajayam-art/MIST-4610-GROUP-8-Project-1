@@ -4,10 +4,10 @@
 CRN:39217 Group 8
 
 ## Team Members:
-1. Vishal Ramajayam
-2. Bhavya Siva
-3. Sheshasri Mallibhatti
-4. Huzaifah Malik
+1. Vishal Ramajayam: [@vishalramajayam-art](https://github.com/vishalramajayam-art)
+2. Bhavya Siva: [@bhavyasiva](https://github.com/bhavyasiva)
+3. Sheshasri Mallibhatti: [@sheshasrimallibhatti-dot](https://github.com/sheshasrimallibhatti-dot)
+4. Huzaifah Malik: [@huzaifahmalik](https://github.com/huzaifahmalik)
 
 ---
 
